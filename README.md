@@ -1,4 +1,4 @@
 # RHD-Model-Training
-Code used to train a CNN to detect hands, trained using the Rendered Handpose Dataset
+Code used to train a CNN to detect hands, trained using the InterHand Dataset
 
-CREDIT: https://lmb.informatik.uni-freiburg.de/projects/hand3d/
+CREDIT: https://mks0601.github.io/InterHand2.6M/
